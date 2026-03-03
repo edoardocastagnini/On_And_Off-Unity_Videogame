@@ -40,9 +40,13 @@ Add your opinions and suggestions here: https://forms.gle/jPCx3xN4CnkrnsaZA
 
 ## Meet us
 Edoardo Castagnini - Developer
+
 Laura Biscella - Developer
+
 Lucas Nguyen Khac - Developer
+
 Sourav Bhadra - Developer
+
 Michelle Mei - Designer
 
 ## Download the Game
