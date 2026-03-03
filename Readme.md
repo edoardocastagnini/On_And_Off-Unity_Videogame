@@ -32,8 +32,8 @@ Players are constantly encouraged to observe, experiment, and think differently,
 ## Controls
 |||
 |---|---|
-|![tutorial0](../Images/1920x1080%20Screenshots/Tutorial1.png)|![tutorial1](../Images/1920x1080%20Screenshots/Tutorial2.png)|
-|![tutorial2](../Images/1920x1080%20Screenshots/Tutorial3.png)|![tutorial3](../Images/1920x1080%20Screenshots/Tutorial4.png)
+|![tutorial0](/Images/1920x1080%20Screenshots/Tutorial1.png)|![tutorial1](../Images/1920x1080%20Screenshots/Tutorial2.png)|
+|![tutorial2](/Images/1920x1080%20Screenshots/Tutorial3.png)|![tutorial3](../Images/1920x1080%20Screenshots/Tutorial4.png)
 
 ## Demo Advices
 Add your opinions and suggestions here: https://forms.gle/jPCx3xN4CnkrnsaZA 
