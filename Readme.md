@@ -1,3 +1,6 @@
+## Official Game Page
+https://polimi-game-collective.itch.io/on-off
+
 **On&Off** is a cooperative puzzle‑platformer where two opposite entities, On (Black) and Off (White), must work together to reach the exit of each level and restore the balance between light and darkness. An intimate, minimalist, and reflective experience where what you see depends entirely on what you choose to illuminate.
 On&Off is not just about solving puzzles, but about mutual dependence, about opposites that do not cancel each other out but complete one another. It is a quiet journey through a forgotten space, where even the faintest light can give birth to something new.
 
@@ -34,8 +37,6 @@ Players are constantly encouraged to observe, experiment, and think differently,
 
 ## Demo Advices
 Add your opinions and suggestions here: https://forms.gle/jPCx3xN4CnkrnsaZA 
-Maybe some suggestions like the best volume etc…
-May be difficult to control the jumps if your pc loses frames due to lagging
 
 ## Meet us
 Edoardo Castagnini - Developer
@@ -45,5 +46,4 @@ Sourav Bhadra - Developer
 Michelle Mei - Designer
 
 ## Download the Game
-- Windows.exe
-- MacOS.exe
+https://polimi-game-collective.itch.io/on-off
